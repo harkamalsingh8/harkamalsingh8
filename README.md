@@ -1,4 +1,4 @@
-# PHP and Laravel Developer
+# Harkamal Singh: PHP and Laravel Developer
 
 👋 Hello there! Welcome to my GitHub repository. I'm a passionate PHP and Laravel developer who loves building robust and scalable web applications. Here, you'll find a collection of my projects, contributions, and coding adventures. Feel free to explore, fork, and collaborate!
 
