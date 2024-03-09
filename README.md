@@ -20,7 +20,7 @@ Let's connect! Reach out to me on social media or professional networks.
 
 ## 🤝 Contributing
 
-If you'd like to contribute to any of my projects or report issues, please check the [Contribution Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to any of my projects or report issues, please email me at [harkamalsingh8@gmail.com](mailto:harkamalsingh8@gmail.com)
 
 ## 🙏 Acknowledgments
 
