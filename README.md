@@ -16,7 +16,7 @@
 Let's connect! Reach out to me on social media or professional networks.
 
 - Email: [harkamalsingh8@gmail.com](mailto:harkamalsingh8@gmail.com)
-- LinkedIn: [Harkamal Singh](www.linkedin.com/in/harkamal-singh-a29155ab)
+- LinkedIn: [Harkamal Singh](https://www.linkedin.com/in/harkamal-singh-a29155ab)
 
 ## 🤝 Contributing
 
